@@ -8,4 +8,4 @@ Admin functions include:
             
 Customer functions include:
                The product details avaialable at the market,
-               Reciept 
+               Receipt 
